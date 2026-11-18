@@ -53,10 +53,10 @@ See the Key figures section on the Dashboard tab for every number in this README
 ### 📈 Key Charts
 
 #### Gross-to-Budget Multiple by Genre
-![Genre Multiple](screenshots/[genre-chart-filename])
+![Genre Multiple](screenshots/genre-chart.png)
 
 #### Gross-to-Budget Multiple by MPAA Rating
-![Rating Multiple](screenshots/[rating-chart-filename])
+![Rating Multiple](screenshots/rating-chart.png)
 
 #### Gross-to-Budget Multiple by IMDb Score
-![Score Multiple](screenshots/[score-chart-filename])
+![Score Multiple](screenshots/score-chart.png)
